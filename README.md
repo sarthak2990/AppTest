@@ -1,6 +1,6 @@
 # AppTest for Gaming mobile App
 
-Software Requirement: Java , Maven , Appium
+Software Requirement: Java , Maven , Appium and Testng
 
 Instruction to Install : mvn clean install
 
