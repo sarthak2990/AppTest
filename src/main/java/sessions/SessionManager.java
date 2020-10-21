@@ -1,9 +1,5 @@
 package sessions;
 
-/**
- * author Love
- */
-
 import constants.Constants;
 import io.appium.java_client.AppiumDriver;
 import io.appium.java_client.service.local.AppiumDriverLocalService;
