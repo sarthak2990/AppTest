@@ -1,9 +1,5 @@
 package utilities;
 
-/**
- * author Love
- */
-
 import org.openqa.selenium.remote.DesiredCapabilities;
 
 import java.util.Iterator;
