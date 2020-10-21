@@ -1,8 +1,5 @@
 package utilities;
 
-/**
- * author love
- */
 
 import constants.Defaults;
 
