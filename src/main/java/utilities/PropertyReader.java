@@ -1,9 +1,5 @@
 package utilities;
 
-/**
- * author Love
- */
-
 import constants.Constants;
 import org.apache.log4j.Logger;
 
